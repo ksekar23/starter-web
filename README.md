@@ -11,4 +11,4 @@ Sample website with plenty of files for demos
 This is example is to show different parts of the Git repository and various commands using a web project.
 
 ## Deployment 
-
+This is deploy the starter web
