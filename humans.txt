@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   Keerthi Sekar  keerthi.sekar2301@gmail.com  @ksekar23
 
 # THANKS
 
-    <name>
+   <name>
 
 # TECHNOLOGY COLOPHON
 
