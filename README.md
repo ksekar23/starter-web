@@ -12,3 +12,5 @@ This is example is to show different parts of the Git repository and various com
 
 ## Deployment 
 This is deploy the starter web
+
+### Adding copy right
